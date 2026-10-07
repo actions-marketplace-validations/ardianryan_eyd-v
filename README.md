@@ -484,3 +484,6 @@ Proyek ini menjunjung tinggi standar tata kelola proyek sumber terbuka yang tran
 * Seluruh konten teks pedoman ejaan merupakan dokumen publik resmi milik **Badan Pengembangan dan Pembinaan Bahasa, Kementerian Pendidikan Dasar dan Menengah Republik Indonesia**.
 * Perangkat lunak, skrip parsing, SDK, CLI, dan server MCP dilisensikan di bawah lisensi [MIT](LICENSE).
 * Pengelola: **Ardian Ryan** ([me@ardianryan.com](mailto:me@ardianryan.com)).
+
+
+<!-- Security scan triggered at 2026-10-07 11:17:58 -->
